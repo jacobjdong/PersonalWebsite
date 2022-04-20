@@ -7644,6 +7644,11 @@ textarea.form-control-lg {
   padding-left: 1.5rem !important;
 }
 
+.px-4-gallery {
+  padding-right: 1rem !important;
+  padding-left: 1rem !important;
+}
+
 .px-5 {
   padding-right: 3rem !important;
   padding-left: 3rem !important;
@@ -11630,6 +11635,9 @@ body {
 
 .projects-section {
   padding: 10rem 0;
+}
+.gallery-section {
+  padding: 2rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
